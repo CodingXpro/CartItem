@@ -4,6 +4,6 @@ console.log("hello welcome to my project)
             
 function main(){
             
- return null;
+ return null
 }
             
